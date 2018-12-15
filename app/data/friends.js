@@ -3,17 +3,17 @@
 var friendList = [
     {
       name: 'Susye',
-      profilePic: 'https://eveasian88.github.io/Friend-Finder/app/public/images/default.jpg',
+      profilePic: 'https://eveasian88.github.io/Friend-Finder/app/public/images/TwinDefault.jpg',
       scores: [
-        "4",
-        "1",
-        "5",
         "2",
         "1",
-        "5",
+        "3",
+        "2",
+        "1",
+        "4",
         "5",
         "3",
-        "5",
+        "2",
         "4"
       ]
     },
