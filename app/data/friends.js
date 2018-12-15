@@ -3,23 +3,23 @@
 var friendList = [
     {
       name: 'Susye',
-      profilePic: '',
+      profilePic: 'https://eveasian88.github.io/Friend-Finder/app/public/images/default.jpg',
       scores: [
         "4",
-        "5",
+        "1",
         "5",
         "2",
-        "4",
+        "1",
         "5",
-        "4",
-        "4",
+        "5",
         "3",
+        "5",
         "4"
       ]
     },
     {
       name: 'Daenerys',
-      profilePic: '',
+      profilePic: 'https://eveasian88.github.io/Friend-Finder/app/public/images/DaenerysTargaryen.jpg',
       scores: [
         "4",
         "1",
@@ -35,7 +35,7 @@ var friendList = [
     },
     {
       name: 'Cersei',
-      profilePic: '',
+      profilePic: 'https://eveasian88.github.io/Friend-Finder/app/public/images/CerseiLannister.jpg',
       scores: [
         "1",
         "1",
@@ -51,7 +51,7 @@ var friendList = [
     },
     {
       name: 'Missandei',
-      profilePic: '',
+      profilePic: 'https://eveasian88.github.io/Friend-Finder/app/public/images/Missandei.jpg',
       scores: [
         "4",
         "3",
@@ -67,7 +67,7 @@ var friendList = [
     },
     {
       name: 'Sansa',
-      profilePic: '',
+      profilePic: 'https://eveasian88.github.io/Friend-Finder/app/public/images/SansaStark.jpg',
       scores: [
         "2",
         "3",
@@ -83,7 +83,7 @@ var friendList = [
     },
     {
       name: 'Margaery',
-      profilePic: '',
+      profilePic: 'https://eveasian88.github.io/Friend-Finder/app/public/images/MargaeryTyrell.jpg',
       scores: [
         "1",
         "1",
@@ -99,7 +99,7 @@ var friendList = [
     },
     {
       name: 'Jon',
-      profilePic: '',
+      profilePic: 'https://eveasian88.github.io/Friend-Finder/app/public/images/JonSnow.jpg',
       scores: [
         "5",
         "5",
@@ -115,7 +115,7 @@ var friendList = [
     },
     {
       name: 'Jorah',
-      profilePic: '',
+      profilePic: 'https://eveasian88.github.io/Friend-Finder/app/public/images/JorahMormont.jpg',
       scores: [
         "2",
         "1",
@@ -131,7 +131,7 @@ var friendList = [
     },
     {
       name: 'Robb',
-      profilePic: '',
+      profilePic: 'https://eveasian88.github.io/Friend-Finder/app/public/images/RobbStark.jpg',
       scores: [
         "3",
         "2",
@@ -147,7 +147,7 @@ var friendList = [
     },
     {
       name: 'Jaime',
-      profilePic: '',
+      profilePic: 'https://eveasian88.github.io/Friend-Finder/app/public/images/JaimeLannister.jpg',
       scores: [
         "5",
         "5",
@@ -163,7 +163,7 @@ var friendList = [
     },
     {
       name: 'Gray',
-      profilePic: '',
+      profilePic: 'https://eveasian88.github.io/Friend-Finder/app/public/images/GrayWorm.jpg',
       scores: [
         "1",
         "5",
