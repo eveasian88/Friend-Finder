@@ -7,8 +7,8 @@ var app = express();
 var PORT = process.env.PORT || 8080;
 
 
-var apiRoutes = require("");
-var htmlRoutes = require("");
+var apiRoutes = require("./app/routing/apiRoute");
+var htmlRoutes = require("./app/routing/htmlRoutes");
 
 
 // set up express app to handle data parsing
