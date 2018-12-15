@@ -1,22 +1,27 @@
-// set required files
-var bodyParser = require("body-parser");
+// dependencies
 var express = require("express");
+var bodyParser = require("body-parser");
 var path = require("path");
+var cors = require("cors");
 
-var app = express()
+var app = express();
 var PORT = process.env.PORT || 8080;
 
 
-// set express app to handle data parsing
+var apiRoutes = require("");
+var htmlRoutes = require("");
+
+
+// set up express app to handle data parsing
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true}));
-app.use(bodyParser.text());
-app.use(bodyParser.json({ type: "application/vnd.api+json"}));
 
+// cors
+app.use(cors());
 
-// require modules from other files
-require('./app/routing/apiRoutes.js')(app);
-require('./app/routing/htmlRoutes.js')(app);
+// router
+apiRoutes(app);
+htmlRoutes(app);
 
 // set listener on PORT
 app.listen(PORT, function() {
