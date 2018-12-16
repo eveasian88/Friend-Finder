@@ -21,15 +21,15 @@ var friendList = [
       name: 'Daenerys',
       profilePic: 'https://eveasian88.github.io/Friend-Finder/app/public/images/DaenerysTargaryen.jpg',
       scores: [
-        "4",
+        "5",
         "1",
-        "2",
-        "3",
-        "4",
+        "5",
+        "1",
+        "5",
         "1",
         "1",
-        "2",
-        "3",
+        "1",
+        "1",
         "1"
       ]
     },
@@ -37,13 +37,13 @@ var friendList = [
       name: 'Cersei',
       profilePic: 'https://eveasian88.github.io/Friend-Finder/app/public/images/CerseiLannister.jpg',
       scores: [
+        "5",
+        "5",
+        "5",
         "1",
+        "5",
         "1",
-        "1",
-        "1",
-        "1",
-        "1",
-        "1",
+        "5",
         "1",
         "1",
         "1"
@@ -53,48 +53,48 @@ var friendList = [
       name: 'Missandei',
       profilePic: 'https://eveasian88.github.io/Friend-Finder/app/public/images/Missandei.jpg',
       scores: [
-        "4",
-        "3",
-        "5",
-        "2",
         "1",
         "5",
-        "4",
-        "1",
         "3",
-        "1"
+        "1",
+        "1",
+        "5",
+        "5",
+        "5",
+        "3",
+        "5"
       ]
     },
     {
       name: 'Sansa',
       profilePic: 'https://eveasian88.github.io/Friend-Finder/app/public/images/SansaStark.jpg',
       scores: [
-        "2",
-        "3",
-        "2",
-        "1",
-        "4",
         "5",
-        "4",
+        "5",
+        "5",
+        "1",
+        "5",
+        "1",
+        "5",
         "1",
         "1",
-        "1"
+        "5"
       ]
     },
     {
       name: 'Margaery',
       profilePic: 'https://eveasian88.github.io/Friend-Finder/app/public/images/MargaeryTyrell.jpg',
       scores: [
+        "5",
+        "5",
+        "5",
+        "1",
+        "5",
+        "5",
         "1",
         "1",
-        "2",
         "1",
-        "2",
-        "3",
-        "1",
-        "1",
-        "1",
-        "3"
+        "1"
       ]
     },
     {
@@ -104,11 +104,11 @@ var friendList = [
         "5",
         "5",
         "3",
-        "2",
-        "4",
+        "1",
         "5",
-        "4",
-        "4",
+        "5",
+        "2",
+        "5",
         "1",
         "1"
       ]
@@ -117,32 +117,32 @@ var friendList = [
       name: 'Jorah',
       profilePic: 'https://eveasian88.github.io/Friend-Finder/app/public/images/JorahMormont.jpg',
       scores: [
+        "5",
+        "1",
         "2",
-        "1",
-        "1",
-        "3",
         "4",
-        "4",
+        "5",
+        "5",
         "1",
-        "4",
+        "5",
         "1",
-        "4"
+        "5"
       ]
     },
     {
       name: 'Robb',
       profilePic: 'https://eveasian88.github.io/Friend-Finder/app/public/images/RobbStark.jpg',
       scores: [
-        "3",
+        "5",
         "2",
-        "1",
+        "5",
         "2",
         "1",
         "5",
         "4",
-        "4",
+        "5",
         "1",
-        "4"
+        "1"
       ]
     },
     {
@@ -154,9 +154,9 @@ var friendList = [
         "5",
         "5",
         "5",
+        "1",
         "5",
-        "5",
-        "5",
+        "1",
         "5",
         "5"
       ]
@@ -171,9 +171,9 @@ var friendList = [
         "2",
         "1",
         "5",
-        "4",
-        "4",
-        "3",
+        "5",
+        "5",
+        "5",
         "1"
       ]
     }
