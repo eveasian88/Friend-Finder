@@ -6,6 +6,6 @@ body {
     position: relative;
 }
 
-h1, h4 {
-    font-family: font-family: 'Gloria Hallelujah', cursive;
+h1, h4, h5 {
+    font-family: 'Gloria Hallelujah', cursive;
 }

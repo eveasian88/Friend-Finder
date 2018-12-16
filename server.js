@@ -7,7 +7,7 @@ var app = express();
 var PORT = process.env.PORT || 8080;
 
 
-var apiRoutes = require("./app/routing/apiRoute");
+var apiRoutes = require("./app/routing/apiRoutes");
 var htmlRoutes = require("./app/routing/htmlRoutes");
 
 
