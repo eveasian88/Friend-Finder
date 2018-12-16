@@ -5,3 +5,7 @@ body {
     background-size: cover;
     position: relative;
 }
+
+h1, h4 {
+    font-family: font-family: 'Gloria Hallelujah', cursive;
+}
