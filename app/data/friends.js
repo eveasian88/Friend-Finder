@@ -3,7 +3,7 @@
 var friendList = [
     {
       name: 'Susye',
-      profilePic: 'https://eveasian88.github.io/Friend-Finder/app/public/images/TwinDefault.jpg',
+      profilePic: 'https://eveasian88.github.io/Friend-Finder/app/public/images/SusyeWengReeder.jpg',
       scores: [
         "2",
         "1",
@@ -45,7 +45,7 @@ var friendList = [
         "1",
         "5",
         "1",
-        "1",
+        "5",
         "1"
       ]
     },
@@ -77,7 +77,7 @@ var friendList = [
         "1",
         "5",
         "1",
-        "1",
+        "5",
         "5"
       ]
     },
@@ -93,7 +93,7 @@ var friendList = [
         "5",
         "1",
         "1",
-        "1",
+        "5",
         "1"
       ]
     },

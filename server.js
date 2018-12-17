@@ -15,14 +15,17 @@ var htmlRoutes = require("./app/routing/htmlRoutes");
 app.use(bodyParser.urlencoded({ extended: true}));
 app.use(bodyParser.json());
 
+// establish static folder for serving files to users' browsers.
+app.use(express.static(path.join(__dirname, '/app/public')));
 
 // router
 apiRoutes(app);
 htmlRoutes(app);
+
 
 // set listener on PORT
 app.listen(PORT, function() {
   console.log("App listening on PORT " + PORT);
 });
 
-//https://salty-retreat-28755.herokuapp.com/ | https://git.heroku.com/salty-retreat-28755.git
+
