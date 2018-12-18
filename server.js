@@ -18,7 +18,7 @@ app.use(bodyParser.json());
 app.use(logger("dev"));
 
 
-// establish static folder for serving files to users' browsers.
+// establish static folder for serving files to users' browsers
 app.use(express.static(path.join(__dirname, '/app/public')));
 
 
