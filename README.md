@@ -28,6 +28,6 @@ is like a Dating App but meant to help you find your ideal Best Friend using Nod
 
 ## Author
 
-- Susye Weng-Reeder - *JavaScript/ Node.js/ Express* - [Susye Weng-Reeder](https://eveasian88.github.io/Professional-Portfolio/ "Susye's Portfolio")
+- Susye Weng-Reeder - *JavaScript/ Node.js/ Express/ Heroku* - [Susye Weng-Reeder](https://eveasian88.github.io/Professional-Portfolio/ "Susye's Portfolio")
 
 
