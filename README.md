@@ -23,8 +23,10 @@ is like a Dating App but meant to help you find your ideal Best Friend using Nod
     - Node.js
         - Express
         - Body-Parser
+        - Cors
         - Morgan
         - Nodemon
+        - Path
 
 ## Author
 
